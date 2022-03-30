@@ -1,0 +1,15 @@
+/Users/robinlindhout/Desktop/projects/OnderhoudChecker/obj/Debug/net6.0/OnderhoudChecker.csproj.AssemblyReference.cache
+/Users/robinlindhout/Desktop/projects/OnderhoudChecker/obj/Debug/net6.0/OnderhoudChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robinlindhout/Desktop/projects/OnderhoudChecker/obj/Debug/net6.0/OnderhoudChecker.AssemblyInfoInputs.cache
+/Users/robinlindhout/Desktop/projects/OnderhoudChecker/obj/Debug/net6.0/OnderhoudChecker.AssemblyInfo.cs
+/Users/robinlindhout/Desktop/projects/OnderhoudChecker/obj/Debug/net6.0/OnderhoudChecker.csproj.CoreCompileInputs.cache
+/Users/robinlindhout/Desktop/projects/OnderhoudChecker/bin/Debug/net6.0/OnderhoudChecker
+/Users/robinlindhout/Desktop/projects/OnderhoudChecker/bin/Debug/net6.0/OnderhoudChecker.deps.json
+/Users/robinlindhout/Desktop/projects/OnderhoudChecker/bin/Debug/net6.0/OnderhoudChecker.runtimeconfig.json
+/Users/robinlindhout/Desktop/projects/OnderhoudChecker/bin/Debug/net6.0/OnderhoudChecker.dll
+/Users/robinlindhout/Desktop/projects/OnderhoudChecker/bin/Debug/net6.0/ref/OnderhoudChecker.dll
+/Users/robinlindhout/Desktop/projects/OnderhoudChecker/bin/Debug/net6.0/OnderhoudChecker.pdb
+/Users/robinlindhout/Desktop/projects/OnderhoudChecker/obj/Debug/net6.0/OnderhoudChecker.dll
+/Users/robinlindhout/Desktop/projects/OnderhoudChecker/obj/Debug/net6.0/ref/OnderhoudChecker.dll
+/Users/robinlindhout/Desktop/projects/OnderhoudChecker/obj/Debug/net6.0/OnderhoudChecker.pdb
+/Users/robinlindhout/Desktop/projects/OnderhoudChecker/obj/Debug/net6.0/OnderhoudChecker.genruntimeconfig.cache
